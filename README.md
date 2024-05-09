@@ -34,7 +34,7 @@ GitHub newbie!
 |     12|[Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)|
 </details>
 
-<details open>
+<details>
 <summary>Learn GitHub Desktop</summary>
 
 | THINGS-TO-KNOW |
@@ -51,6 +51,17 @@ GitHub newbie!
 |[Viewing a pull request in GitHub Desktop](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/viewing-a-pull-request-in-github-desktop)|
 |[Syncing your branch in GitHub Desktop](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/syncing-your-branch-in-github-desktop)|
 </details>
+
+
+<details>
+<summary>Writing on Github</summary>
+
+| THINGS-TO-KNOW |
+|----------------|
+|[Basic writing and formatting syntax](https://docs.github.com/en/desktop/overview/github-desktop-keyboard-shortcuts)|
+|[Working with advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)|
+</details>
+
 
 ---
 > Insert a profound qoute here
